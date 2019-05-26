@@ -936,10 +936,14 @@ a:focus{
 .contact-form .form-control{
 	border: none;
 	outline: 0;
+	top: 0;
+	left: 0;
 	box-shadow: none;
 	border-radius: 0;
 	height: auto;
 	padding: 12px;
+	position: fixed;
+	
 }
 
 .btn-contact{
