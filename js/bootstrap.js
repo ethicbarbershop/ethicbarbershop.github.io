@@ -821,7 +821,7 @@ if (typeof jQuery === 'undefined') {
         $(document.createElement('div'))
           .addClass('dropdown-backdrop')
           .insertAfter($(this))
-          .on('click', clearMenus)
+          .on('click touchstart', clearMenus)
       }
 
       var relatedTarget = { relatedTarget: this }
