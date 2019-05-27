@@ -403,6 +403,7 @@ a:focus{
 }
 
 .btn-custom:hover{
+	cursor: pointer;
 	background: #282828;
 	color: #000000;
 }
@@ -415,10 +416,12 @@ a:focus{
 }
 
 .navbar-default .navbar-toggle .icon-bar{
+	cursor: pointer;
 	background: #000000;
 }
 
 .navbar-default .navbar-toggle:hover{
+	cursor: pointer;
 	background: none;
 }
 
@@ -1079,10 +1082,12 @@ footer{
 	}
 	
 	.navbar-header{
+		cursor: pointer;
 		padding: 8px 0;
 	}
 	
 	.navbar-header:after{
+		cursor: pointer;
 		content: '';
 		display: block;
 		clear: both;
