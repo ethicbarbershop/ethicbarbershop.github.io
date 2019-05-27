@@ -365,17 +365,17 @@ a:focus{
 }
 
 .navbar-default .navbar-nav>li>a:hover{
-	color: #fff;
+	color: #000000;
 }
 
 .navbar-default .navbar-nav>li>a:focus{
-	color: #fff;
+	color: #000000;
 }
 
 .navbar-default .navbar-nav>li>a{
 	font-size: 13px;
 	text-transform: uppercase;
-	color: #fff;
+	color: #000000;
 	letter-spacing: 0.04em;
 	padding: 17px 15px 13px; 
 	position: relative;
