@@ -1,1 +1,1 @@
-ethic bBarbershop website.
+ethic barbershop website.
