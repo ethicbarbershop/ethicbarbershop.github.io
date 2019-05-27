@@ -48,16 +48,16 @@ a:focus{
 
 ::-moz-selection { /* Code for Firefox */
     color: #000000;
-    background: #99ffdd;
+    background: #be9342;
 }
 
 ::selection {
     color: #000000;
-    background: #99ffdd;
+    background: #be9342;
 }
 
 .preloader{
-    background: #99ffdd;
+    background: #be9342;
     bottom: 0;
     left: 0;
     position: fixed;
@@ -348,7 +348,7 @@ a:focus{
 }
 
 .navbar-default{
-	background: #99ffdd;
+	background: #be9342;
 	border: none;
 	border-bottom: 1px solid transparent;
 	padding: 10px 0;
@@ -389,7 +389,7 @@ a:focus{
 
 .btn-custom{
 	display: inline-block;
-	background: #99ffdd;
+	background: #be9342;
 	color: #000000;
 	text-transform: uppercase;
 	letter-spacing: 0.12em;
@@ -507,7 +507,7 @@ a:focus{
 	width: 60px;
 	text-align: center;
 	font-size: 50px;
-	color: #99ffdd;
+	color: #be9342;
 	position: absolute;
 	left: 10px;
 	top: 10px;
@@ -605,7 +605,7 @@ a:focus{
 	height: 156px;
 	border-radius:50%;
 	padding-top: 24px;
-	border: 2px solid #99ffdd;
+	border: 2px solid #be9342;
 	position: relative;
 }
 
@@ -620,12 +620,12 @@ a:focus{
 
 .service-single .icon-box i{
 	font-size: 80px;
-	color: #99ffdd;
+	color: #be9342;
 }
 
 .service-single h3{
 	text-transform: uppercase;
-	color: #99ffdd;
+	color: #be9342;
 	font-weight: 600;
 	font-size: 22	px;
 	letter-spacing: 0.1em;
@@ -640,7 +640,7 @@ a:focus{
 .service-single h5{
 	font-size: 20px;
 	display: inline-block;
-	background: #99ffdd;
+	background: #be9342;
 	text-transform: uppercase;
 	padding: 14px 20px 10px;
 	color: #fff;
@@ -672,7 +672,7 @@ a:focus{
 
 .team-box .team-entry p{
 	font-size: 18px;
-	color: #99ffdd;
+	color: #be9342;
 	text-transform: uppercase;
 }
 
@@ -688,7 +688,7 @@ a:focus{
 	display: inline-block;
 	padding: 0 6px;
 	font-size: 20px;
-	color: #99ffdd;
+	color: #be9342;
 }
 
 .team-social a:hover{
@@ -730,7 +730,7 @@ a:focus{
 	right: 20px;
 	bottom: 20px;
 	background: rgba(0,0,0,0.5);
-	border: 4px solid #99ffdd;
+	border: 4px solid #be9342;
 	transition: all 0.4s;
 	transform: scale(0.5);
 	opacity: 0;
@@ -760,7 +760,7 @@ a:focus{
 	display: inline-block;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 20px;
-	color: #99ffdd;
+	color: #be9342;
 	text-transform: uppercase;
 	background: #fff;
 	line-height: 1em;
@@ -895,12 +895,12 @@ a:focus{
 
 .testimonial-slider .owl-nav .owl-next:hover,
 .testimonial-slider .owl-nav .owl-prev:hover{
-	background: #99ffdd;
+	background: #be9342;
 	color: #fff;
 }
 
 .contactus{
-	background: #99ffdd;
+	background: #be9342;
 }
 
 .contactus .container-fluid{
@@ -964,7 +964,7 @@ footer{
 
 .footer-social a{
 	display: inline-block;
-	color: #99ffdd;
+	color: #be9342;
 	font-size: 14px;
 	padding: 0 8px;
 	transform: all 0.3s;
@@ -991,7 +991,7 @@ footer{
 }
 
 .site-info p a:hover{
-	color: #99ffdd;
+	color: #be9342;
 }
 
 .footer-menu{
@@ -1026,7 +1026,7 @@ footer{
 }
 
 .footer-menu ul li a:hover{
-	color: #99ffdd;
+	color: #be9342;
 }
 
 /****************************************
@@ -1095,7 +1095,7 @@ footer{
 	}
 
 	.slicknav_menu ul{
-		background: #99ffdd;
+		background: #be9342;
 	}
 	
 	.slicknav_menu li{
