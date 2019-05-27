@@ -47,12 +47,12 @@ a:focus{
 }
 
 ::-moz-selection { /* Code for Firefox */
-    color: #fff;
+    color: #000000;
     background: #99ffdd;
 }
 
 ::selection {
-    color: #fff;
+    color: #000000;
     background: #99ffdd;
 }
 
