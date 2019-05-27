@@ -107,7 +107,7 @@ a:focus{
 }
 
 .loading-dots.dark-gray i {
-    background: #fff;
+    background: #000000;
 }
 
 .loading-dots i:first-child {
@@ -135,7 +135,7 @@ a:focus{
 }
 
 .loading-text{
-	color: #fff;
+	color: #000000;
 	margin-top: 20px;
 	letter-spacing: 0.1em;
 }
@@ -390,7 +390,7 @@ a:focus{
 .btn-custom{
 	display: inline-block;
 	background: #99ffdd;
-	color: #fff;
+	color: #000000;
 	text-transform: uppercase;
 	letter-spacing: 0.12em;
 	font-size: 15px;
@@ -404,17 +404,17 @@ a:focus{
 
 .btn-custom:hover{
 	background: #282828;
-	color: #fff;
+	color: #000000;
 }
 
 .navbar-default .navbar-toggle{
 	border-radius: 0;
-	border-color: #fff;
+	border-color: #000000;
 	padding: 0;
 }
 
 .navbar-default .navbar-toggle .icon-bar{
-	background: #fff;
+	background: #000000;
 }
 
 .navbar-default .navbar-toggle:hover{
