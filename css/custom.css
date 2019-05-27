@@ -348,6 +348,7 @@ a:focus{
 }
 
 .navbar-default{
+	cursor: pointer;
 	background: #be9342;
 	border: none;
 	border-bottom: 1px solid transparent;
@@ -388,6 +389,7 @@ a:focus{
 }
 
 .btn-custom{
+	cursor: pointer;
 	display: inline-block;
 	background: #be9342;
 	color: #000000;
