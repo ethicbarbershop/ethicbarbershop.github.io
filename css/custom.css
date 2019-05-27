@@ -829,7 +829,7 @@ a:focus{
 
 .testimonial{
 	padding: 100px 0;
-	background: url(../images/testimonial-bg.jpg) no-repeat center center;
+	background: url(../images/testi-bg.png) no-repeat center center;
 	background-size: cover;
 	position: relative;
 }
