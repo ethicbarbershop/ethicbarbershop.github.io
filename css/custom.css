@@ -48,16 +48,16 @@ a:focus{
 
 ::-moz-selection { /* Code for Firefox */
     color: #fff;
-    background: #be9342;
+    background: #99ffdd;
 }
 
 ::selection {
     color: #fff;
-    background: #be9342;
+    background: #99ffdd;
 }
 
 .preloader{
-    background: #be9342;
+    background: #99ffdd;
     bottom: 0;
     left: 0;
     position: fixed;
@@ -353,7 +353,7 @@ a:focus{
 }
 
 .navbar-default{
-	background: #be9342;
+	background: #99ffdd;
 	border: none;
 	border-bottom: 1px solid transparent;
 	padding: 10px 0;
