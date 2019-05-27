@@ -408,6 +408,7 @@ a:focus{
 }
 
 .navbar-default .navbar-toggle{
+	cursor: pointer;
 	border-radius: 0;
 	border-color: #000000;
 	padding: 0;
