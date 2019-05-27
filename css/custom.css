@@ -328,11 +328,6 @@ a:focus{
 	padding: 1px 15px;
 }
 
-.navbar-brand img{
-	filter: brightness(0) invert(1);
-	transition: all 0.3s;
-}
-
 .navbar-brand h1{
 	font-size: 30px;
 	margin: 0;
