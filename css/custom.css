@@ -404,6 +404,22 @@ a:focus{
 	border-radius: 40px;
 }
 
+.button {
+  margin: 9px 0px;
+  display: inline-block;
+  padding: 12px 19px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #FFF;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Lato', Geneva, sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 17px;
+  letter-spacing: .2em;
+}
+
 .button.sticky-button {
   position: fixed;
   top: 8px;
